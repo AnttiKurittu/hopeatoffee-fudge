@@ -7,10 +7,10 @@
 | 50 gr  | Voi                    | 
 | 0,5 dl | Vaalea siirappi        | 
 | 200g   | Valkosuklaa rouhittuna | 
-| Ripaus | suola                  | 
+| Ripaus | Suola                  | 
 | 1 ps   | Turkinpippuri          |
 
-##Valmistus
+## Valmistus
 
 - Laita kattilaan `kerma`, `turkinpippurit` ja `hopeatoffeet`. 
 - Sekoittele miedolla lämmöllä kunnes karkit ovat liuenneet.
@@ -21,6 +21,6 @@
 - Kun seos on hieman jäähtynyt, vatkaa fudgea rivakasti pari minuuttia kunnes se kuohkeutu ja muuttuu mattapintaiseksi.
 - Kaada leivinpaperilla päällystettyyn vuokaan ja laita peitettynä [jääkaappiin](https://fi.wikipedia.org/wiki/Jääkaappi) yöksi.
 
-##Maustaminen
+## Maustaminen
 
 Maustamisessa voi käyttää mielikuvitusta, valkosuklaan voi esimerkiksi korvata vadelman makuisella valkosuklaalla. Tässä ohjeessa käytetty lisäksi 1pss Hopeatoffeeta ja ja kourallinen turkinpippureita.
